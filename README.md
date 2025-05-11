@@ -87,9 +87,7 @@ All metrics and calculations (e.g., YTD measures, profit margin) were created us
 6. Screenshot:
 
 A screenshot of the completed dashboard is included in the repository.
-![Ecommerce Sales Dashboard_Screenshot](Screenshots/EcommerceSalesDashboard_Screenshot.png)
-
-
+!![Ecommerce Dashboard](Ecommerce%20Sales%20Dashboard_Screenshot.png)
 ## Features
 
 Dynamic Metrics: Automatically updates based on selected filters (e.g., Consumer, Corporate, Home Office components).
